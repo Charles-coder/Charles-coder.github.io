@@ -161,5 +161,6 @@ server:
   
 backup:
   type: git
+  message: Back up my  blog
   repository:
-    github: git@github.com:Charles-coder/Charles-coder.github.io.git,back
+    github: git@github.com:Charles-coder/Charles-coder.github.io.git,hexo
