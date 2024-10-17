@@ -164,5 +164,6 @@ backup:
   message: Back up my  blog
   repository:
     github: git@github.com:Charles-coder/Charles-coder.github.io.git,hexo
+    gitee: git@gitee.com:Charles_Coder/blog-source-code-backup.git,main
 
 # 测试
