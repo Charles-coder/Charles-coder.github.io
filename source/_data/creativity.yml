@@ -1,0 +1,50 @@
+- class_name: 开启创造力
+  creativity_list:
+    - name: Java
+      color: "#fff"
+      icon: https://pic-1318156172.cos.ap-beijing.myqcloud.com/java.jpg
+    - name: Docker
+      color: "#57b6e6"
+      icon: https://pic-1318156172.cos.ap-beijing.myqcloud.com/docker.png
+    - name: Photoshop
+      color: "#4082c3"
+      icon: https://pic-1318156172.cos.ap-beijing.myqcloud.com/ps.png
+    - name: Node
+      color: "#333"
+      icon: https://npm.elemecdn.com/anzhiyu-blog@2.1.1/img/svg/node-logo.svg
+    - name: Webpack
+      color: "#2e3a41"
+      icon: https://pic-1318156172.cos.ap-beijing.myqcloud.com/webpack.png
+    - name: Pinia
+      color: "#fff"
+      icon: https://npm.elemecdn.com/anzhiyu-blog@2.0.8/img/svg/pinia-logo.svg
+    - name: Python
+      color: "#fff"
+      icon: https://pic-1318156172.cos.ap-beijing.myqcloud.com/python.png
+    - name: Vite
+      color: "#937df7"
+      icon: https://npm.elemecdn.com/anzhiyu-blog@2.0.8/img/svg/vite-logo.svg
+    - name: Flutter
+      color: "#4499e4"
+      icon: https://pic-1318156172.cos.ap-beijing.myqcloud.com/flutter.png
+    - name: Vue
+      color: "#b8f0ae"
+      icon: https://pic-1318156172.cos.ap-beijing.myqcloud.com/vue.png
+    - name: React
+      color: "#222"
+      icon: https://pic-1318156172.cos.ap-beijing.myqcloud.com/react.jpg
+    - name: CSS3
+      color: "#2c51db"
+      icon: https://pic-1318156172.cos.ap-beijing.myqcloud.com/css.png
+    - name: JS
+      color: "#f7cb4f"
+      icon: https://pic-1318156172.cos.ap-beijing.myqcloud.com/js.png
+    - name: HTML
+      color: "#e9572b"
+      icon: https://pic-1318156172.cos.ap-beijing.myqcloud.com/html.png
+    - name: Git
+      color: "#df5b40"
+      icon: https://pic-1318156172.cos.ap-beijing.myqcloud.com/git.jpg
+    - name: Apifox
+      color: "#e65164"
+      icon: https://pic-1318156172.cos.ap-beijing.myqcloud.com/anifox.png
